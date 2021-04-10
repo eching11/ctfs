@@ -2,16 +2,20 @@
 
 ## Cyber FastTrack Spring 2021
 
-###Binary
+### Binary
 [BE01](https://github.com/eching11/ctfs/blob/main/binary/BE01.md)
 
 [BE02](https://github.com/eching11/ctfs/blob/main/binary/BE02.md)
 
-###Forensics
+### Forensics
+FE01 - partial
+
 [FE04](https://github.com/eching11/ctfs/blob/main/forensics/FE04.md)
 
-###Networking
+FM02 - partial
+
+### Networking
 [NE01](https://github.com/eching11/ctfs/blob/main/networking/NE01.md)
 
-###Web
+### Web
 [WE02](https://github.com/eching11/ctfs/blob/main/web/WE02.md)
