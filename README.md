@@ -8,7 +8,7 @@ Now that the competition is officially over, we're encouraged to share our write
 [BE02](https://github.com/eching11/ctfs/blob/main/binary/BE02.md)
 
 ### Forensics
-FE01 - partial
+[FE01](https://github.com/eching11/ctfs/blob/main/forensics/FE01.md)
 
 [FE04](https://github.com/eching11/ctfs/blob/main/forensics/FE04.md)
 
